@@ -4,4 +4,4 @@ now I have been writing my codes in an IDE and display them in a browser.
 thank you STREAMLIT developers.
 
 I have been working on early cancer diagnosis by machine learning and AI. 
-I am open to work projects like this.
+I am open to work on  projects like this.
